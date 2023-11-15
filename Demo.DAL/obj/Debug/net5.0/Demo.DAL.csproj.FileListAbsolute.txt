@@ -1,0 +1,36 @@
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+C:\Users\Omar\Downloads\G02 Demo Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\Omar\Downloads\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+C:\Users\Omar\Downloads\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Downloads\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+C:\Users\Omar\Downloads\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Downloads\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+C:\Users\Omar\Downloads\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll

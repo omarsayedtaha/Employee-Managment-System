@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoPL", "DemoPL\DemoPL.csproj", "{D57B61A1-917D-47E9-9616-55A99F7EC24F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.DAL", "Demo.DAL\Demo.DAL.csproj", "{0A96F062-D478-4261-B7D0-021C98739E87}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.BLL", "Demo.BLL\Demo.BLL.csproj", "{90E08359-245F-482E-B22D-F1BBE7E14D43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D57B61A1-917D-47E9-9616-55A99F7EC24F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D57B61A1-917D-47E9-9616-55A99F7EC24F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D57B61A1-917D-47E9-9616-55A99F7EC24F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D57B61A1-917D-47E9-9616-55A99F7EC24F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A96F062-D478-4261-B7D0-021C98739E87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A96F062-D478-4261-B7D0-021C98739E87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A96F062-D478-4261-B7D0-021C98739E87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A96F062-D478-4261-B7D0-021C98739E87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90E08359-245F-482E-B22D-F1BBE7E14D43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90E08359-245F-482E-B22D-F1BBE7E14D43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90E08359-245F-482E-B22D-F1BBE7E14D43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90E08359-245F-482E-B22D-F1BBE7E14D43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D82E9A09-365C-4795-A739-D9E3F2069CE3}
+	EndGlobalSection
+EndGlobal

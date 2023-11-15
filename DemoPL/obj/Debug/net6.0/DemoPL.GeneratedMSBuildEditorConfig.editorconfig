@@ -1,0 +1,173 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DemoPL
+build_property.RootNamespace = DemoPL
+build_property.ProjectDir = D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/Account/CheckYourInbox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDaGVja1lvdXJJbmJveC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/Account/ForgetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3JnZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/DepartmentController1/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudENvbnRyb2xsZXIxXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/DepartmentController1/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudENvbnRyb2xsZXIxXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/DepartmentController1/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudENvbnRyb2xsZXIxXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/DepartmentController1/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudENvbnRyb2xsZXIxXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/DepartmentController1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudENvbnRyb2xsZXIxXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/EmployeeController1/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVDb250cm9sbGVyMVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/EmployeeController1/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVDb250cm9sbGVyMVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/EmployeeController1/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVDb250cm9sbGVyMVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/EmployeeController1/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVDb250cm9sbGVyMVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/EmployeeController1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVDb250cm9sbGVyMVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/EmployeeController1/PartialViews/CreateEditeEmployeePartialview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVDb250cm9sbGVyMVxQYXJ0aWFsVmlld3NcQ3JlYXRlRWRpdGVFbXBsb3llZVBhcnRpYWx2aWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/EmployeeController1/PartialViews/DetailsDeleteEmployeePartialview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVDb250cm9sbGVyMVxQYXJ0aWFsVmlld3NcRGV0YWlsc0RlbGV0ZUVtcGxveWVlUGFydGlhbHZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/Role/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/Role/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/Role/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/Role/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/Role/PartialViews/CreateEditRolePartialview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxQYXJ0aWFsVmlld3NcQ3JlYXRlRWRpdFJvbGVQYXJ0aWFsdmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/Role/PartialViews/DetailsDeleteRolePartialview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxQYXJ0aWFsVmlld3NcRGV0YWlsc0RlbGV0ZVJvbGVQYXJ0aWFsdmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/Shared/_AuthLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BdXRoTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/Shared/_Buttonpartialview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CdXR0b25wYXJ0aWFsdmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/UserController1/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckNvbnRyb2xsZXIxXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/UserController1/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckNvbnRyb2xsZXIxXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/UserController1/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckNvbnRyb2xsZXIxXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/UserController1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckNvbnRyb2xsZXIxXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/UserController1/PartialViews/CreateEditUserPartialview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckNvbnRyb2xsZXIxXFBhcnRpYWxWaWV3c1xDcmVhdGVFZGl0VXNlclBhcnRpYWx2aWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/UserController1/PartialViews/DetailsDeleteUserPartialview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckNvbnRyb2xsZXIxXFBhcnRpYWxWaWV3c1xEZXRhaWxzRGVsZXRlVXNlclBhcnRpYWx2aWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dotnet Course Route/Sessions/07-ASP.NET Core MVC/G02 Demo Solution/DemoPL/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,173 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\Files\\Images\\fda27b13-b47e-4a1f-ac6b-d45ed160a3ccTELEMMGLPICT000311439166_trans_NvBQzQNjv4BqR9Bd0on0fo9Ep5Jiu9btgWFY0OFg7YLeiKxn9Ng2_6U-removebg-preview.png",
+      "PackagePath": "staticwebassets\\Files\\Images\\fda27b13-b47e-4a1f-ac6b-d45ed160a3ccTELEMMGLPICT000311439166_trans_NvBQzQNjv4BqR9Bd0on0fo9Ep5Jiu9btgWFY0OFg7YLeiKxn9Ng2_6U-removebg-preview.png"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\css\\authLayout.css",
+      "PackagePath": "staticwebassets\\css\\authLayout.css"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Dotnet Course Route\\Sessions\\07-ASP.NET Core MVC\\G02 Demo Solution\\DemoPL\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DemoPL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DemoPL.props",
+      "PackagePath": "build\\DemoPL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DemoPL.props",
+      "PackagePath": "buildMultiTargeting\\DemoPL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DemoPL.props",
+      "PackagePath": "buildTransitive\\DemoPL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

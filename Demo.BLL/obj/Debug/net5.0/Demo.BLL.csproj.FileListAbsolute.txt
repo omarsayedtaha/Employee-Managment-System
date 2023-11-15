@@ -1,0 +1,45 @@
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+C:\Users\Omar\Downloads\G02 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+C:\Users\Omar\Downloads\G02 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\Omar\Downloads\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+C:\Users\Omar\Downloads\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Downloads\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+C:\Users\Omar\Downloads\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Downloads\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+C:\Users\Omar\Downloads\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+C:\Users\Omar\Downloads\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll

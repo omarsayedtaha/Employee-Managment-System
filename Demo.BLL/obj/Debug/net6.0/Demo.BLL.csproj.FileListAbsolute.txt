@@ -1,0 +1,15 @@
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.BLL\bin\Debug\net6.0\Demo.BLL.deps.json
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.BLL\bin\Debug\net6.0\Demo.BLL.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.BLL\bin\Debug\net6.0\Demo.BLL.pdb
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.BLL\bin\Debug\net6.0\Demo.DAL.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.BLL\bin\Debug\net6.0\Demo.DAL.pdb
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.AssemblyReference.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfoInputs.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfo.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CoreCompileInputs.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CopyComplete
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.BLL\obj\Debug\net6.0\refint\Demo.BLL.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.BLL\obj\Debug\net6.0\Demo.BLL.pdb
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\Demo.BLL\obj\Debug\net6.0\ref\Demo.BLL.dll

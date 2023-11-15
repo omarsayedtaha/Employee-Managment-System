@@ -1,0 +1,575 @@
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\appsettings.Development.json
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\appsettings.json
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\DemoPL.exe
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\DemoPL.deps.json
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\DemoPL.runtimeconfig.json
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\DemoPL.runtimeconfig.dev.json
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\DemoPL.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\DemoPL.pdb
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\DemoPL.Views.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\DemoPL.Views.pdb
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Demo.BLL.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Demo.DAL.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Demo.BLL.pdb
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.csproj.AssemblyReference.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.AssemblyInfoInputs.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.AssemblyInfo.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.csproj.CoreCompileInputs.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.MvcApplicationPartsAssemblyInfo.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.RazorAssemblyInfo.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.RazorAssemblyInfo.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\scopedcss\bundle\DemoPL.styles.css
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\staticwebassets\DemoPL.StaticWebAssets.Manifest.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\staticwebassets\DemoPL.StaticWebAssets.Pack.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\staticwebassets\msbuild.DemoPL.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\staticwebassets\msbuild.build.DemoPL.props
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.DemoPL.props
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.DemoPL.props
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.TagHelpers.input.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.TagHelpers.output.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.RazorCoreGenerate.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.RazorTargetAssemblyInfo.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.RazorTargetAssemblyInfo.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.Views.pdb
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.csproj.CopyComplete
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\refint\DemoPL.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.pdb
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.genruntimeconfig.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\ref\DemoPL.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Humanizer.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\DepartmentController1\Index.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\DepartmentController1\Create.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\DepartmentController1\Details.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\DepartmentController1\Edit.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\DepartmentController1\Delete.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\EmployeeController1\Create.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\EmployeeController1\Delete.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\EmployeeController1\Details.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\EmployeeController1\Edit.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\EmployeeController1\Index.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Shared\_Buttonpartialview.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\EmployeeController1\PartialViews\CreateEditeEmployeePartialview.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\EmployeeController1\PartialViews\DetailsDeleteEmployeePartialview.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\AutoMapper.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\Session 02\Demos\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\appsettings.json
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\DemoPL.exe
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\DemoPL.deps.json
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\DemoPL.runtimeconfig.json
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\DemoPL.runtimeconfig.dev.json
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\DemoPL.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\DemoPL.pdb
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\DemoPL.Views.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\DemoPL.Views.pdb
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Demo.BLL.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Demo.DAL.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Demo.BLL.pdb
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Demo.DAL.pdb
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.csproj.AssemblyReference.cache
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.AssemblyInfoInputs.cache
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.AssemblyInfo.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.RazorAssemblyInfo.cache
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.RazorAssemblyInfo.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\scopedcss\bundle\DemoPL.styles.css
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\staticwebassets\DemoPL.StaticWebAssets.Manifest.cache
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\staticwebassets\DemoPL.StaticWebAssets.Pack.cache
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\staticwebassets\msbuild.DemoPL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\staticwebassets\msbuild.build.DemoPL.props
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.DemoPL.props
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.DemoPL.props
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.TagHelpers.input.cache
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.TagHelpers.output.cache
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.RazorCoreGenerate.cache
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\DepartmentController1\Create.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\DepartmentController1\Delete.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\DepartmentController1\Details.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\DepartmentController1\Edit.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\DepartmentController1\Index.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\EmployeeController1\Create.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\EmployeeController1\Delete.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\EmployeeController1\Details.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\EmployeeController1\Edit.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\EmployeeController1\Index.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\EmployeeController1\PartialViews\CreateEditeEmployeePartialview.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\EmployeeController1\PartialViews\DetailsDeleteEmployeePartialview.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Shared\_Buttonpartialview.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.RazorTargetAssemblyInfo.cache
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.RazorTargetAssemblyInfo.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.Views.pdb
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.csproj.CopyComplete
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\refint\DemoPL.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.pdb
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.genruntimeconfig.cache
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\ref\DemoPL.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Shared\_AuthLayout.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Account\ForgetPassword.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Account\CheckYourInbox.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Role\Delete.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Role\Details.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Role\Edit.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Role\Index.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Role\Create.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Role\PartialViews\CreateEditRolePartialview.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Role\PartialViews\DetailsDeleteRolePartialview.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\UserController1\Delete.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\UserController1\Details.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\UserController1\Edit.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\UserController1\Index.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\UserController1\PartialViews\CreateEditUserPartialview.cshtml.g.cs
+C:\Users\Omar\Downloads\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\UserController1\PartialViews\DetailsDeleteUserPartialview.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\appsettings.Development.json
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\appsettings.json
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\DemoPL.exe
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\DemoPL.deps.json
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\DemoPL.runtimeconfig.json
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\DemoPL.runtimeconfig.dev.json
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\DemoPL.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\DemoPL.pdb
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\DemoPL.Views.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\DemoPL.Views.pdb
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\AutoMapper.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Humanizer.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Demo.BLL.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Demo.DAL.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Demo.BLL.pdb
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.csproj.AssemblyReference.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.AssemblyInfoInputs.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.AssemblyInfo.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.csproj.CoreCompileInputs.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.MvcApplicationPartsAssemblyInfo.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.RazorAssemblyInfo.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.RazorAssemblyInfo.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\scopedcss\bundle\DemoPL.styles.css
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\staticwebassets\DemoPL.StaticWebAssets.Manifest.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\staticwebassets\DemoPL.StaticWebAssets.Pack.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\staticwebassets\msbuild.DemoPL.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\staticwebassets\msbuild.build.DemoPL.props
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.DemoPL.props
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.DemoPL.props
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.TagHelpers.input.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.TagHelpers.output.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.RazorCoreGenerate.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Account\CheckYourInbox.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Account\ForgetPassword.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\DepartmentController1\Create.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\DepartmentController1\Delete.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\DepartmentController1\Details.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\DepartmentController1\Edit.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\DepartmentController1\Index.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\EmployeeController1\Create.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\EmployeeController1\Delete.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\EmployeeController1\Details.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\EmployeeController1\Edit.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\EmployeeController1\Index.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\EmployeeController1\PartialViews\CreateEditeEmployeePartialview.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\EmployeeController1\PartialViews\DetailsDeleteEmployeePartialview.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Role\Create.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Role\Delete.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Role\Details.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Role\Edit.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Role\Index.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Role\PartialViews\CreateEditRolePartialview.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Role\PartialViews\DetailsDeleteRolePartialview.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Shared\_AuthLayout.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Shared\_Buttonpartialview.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\UserController1\Delete.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\UserController1\Details.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\UserController1\Edit.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\UserController1\Index.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\UserController1\PartialViews\CreateEditUserPartialview.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\UserController1\PartialViews\DetailsDeleteUserPartialview.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.RazorTargetAssemblyInfo.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.RazorTargetAssemblyInfo.cs
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.Views.pdb
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.csproj.CopyComplete
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\refint\DemoPL.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.pdb
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\DemoPL.genruntimeconfig.cache
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\obj\Debug\net5.0\ref\DemoPL.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\BouncyCastle.Cryptography.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\MailKit.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\MimeKit.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.Formats.Asn1.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\System.Text.Encoding.CodePages.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\Dotnet Course Route\Sessions\07-ASP.NET Core MVC\G02 Demo Solution\DemoPL\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
